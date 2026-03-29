@@ -1,4 +1,4 @@
-# Computer-Vision-and-Pattern-Recognition-
+# CNN-METASTATIC-TISSUE-CLASSIFICATION-PCAM
 ## 📊 Dataset Description (PatchCamelyon)
 
 The dataset used is **PatchCamelyon (PCam)** from Kaggle.
