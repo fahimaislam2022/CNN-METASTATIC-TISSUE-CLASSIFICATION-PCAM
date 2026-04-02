@@ -45,6 +45,7 @@ To improve generalization, the following techniques were applied:
 
 - Random flipping  
 - Rotation  
+
 https://patchcamelyon.grand-challenge.org/
 
 https://github.com/basveeling/pcam
