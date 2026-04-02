@@ -88,7 +88,7 @@ After feature extraction:
 - **Batch Normalization:** Stabilizes training and improves performance  
 - **Dropout:** Reduces overfitting  
 
----
+----
 
 ## 📉 Training Setup
 
