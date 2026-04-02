@@ -27,8 +27,8 @@ This is a **binary classification dataset**:
 The dataset is originally large (~300,000 images), but a subset was used:
 
 - **Training:** 40,000 images  
-- **Validation:** 10,000 images  
-- **Testing:** 10,000 images  
+- **Validation:** 5,000 images  
+- **Testing:** 5,000 images  
 
 ---
 
